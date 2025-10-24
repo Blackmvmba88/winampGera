@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#0a0a0a"/>
+  
+  <!-- Outer geometric border -->
+  <polygon points="20,20 180,20 180,180 20,180" fill="none" stroke="#00ff41" stroke-width="4"/>
+  
+  <!-- Inner geometric shapes -->
+  <polygon points="60,50 140,50 140,80 60,80" fill="none" stroke="#00ff41" stroke-width="3"/>
+  <polygon points="60,90 140,90 140,120 60,120" fill="#00ff41"/>
+  <polygon points="60,130 140,130 140,160 60,160" fill="none" stroke="#00ff41" stroke-width="3"/>
+  
+  <!-- Geometric play symbol -->
+  <polygon points="80,100 80,110 110,105" fill="#0a0a0a"/>
+  
+  <!-- Corner accents -->
+  <line x1="20" y1="20" x2="40" y2="20" stroke="#00ff41" stroke-width="6"/>
+  <line x1="20" y1="20" x2="20" y2="40" stroke="#00ff41" stroke-width="6"/>
+  
+  <line x1="180" y1="20" x2="160" y2="20" stroke="#00ff41" stroke-width="6"/>
+  <line x1="180" y1="20" x2="180" y2="40" stroke="#00ff41" stroke-width="6"/>
+  
+  <line x1="20" y1="180" x2="40" y2="180" stroke="#00ff41" stroke-width="6"/>
+  <line x1="20" y1="180" x2="20" y2="160" stroke="#00ff41" stroke-width="6"/>
+  
+  <line x1="180" y1="180" x2="160" y2="180" stroke="#00ff41" stroke-width="6"/>
+  <line x1="180" y1="180" x2="180" y2="160" stroke="#00ff41" stroke-width="6"/>
+  
+  <!-- Decorative lines -->
+  <line x1="40" y1="50" x2="50" y2="50" stroke="#00ff41" stroke-width="2"/>
+  <line x1="150" y1="50" x2="160" y2="50" stroke="#00ff41" stroke-width="2"/>
+  <line x1="40" y1="160" x2="50" y2="160" stroke="#00ff41" stroke-width="2"/>
+  <line x1="150" y1="160" x2="160" y2="160" stroke="#00ff41" stroke-width="2"/>
+  
+  <!-- Text -->
+  <text x="100" y="195" font-family="Courier New, monospace" font-size="14" font-weight="bold" fill="#00ff41" text-anchor="middle">WINAMP GERA</text>
+</svg>
