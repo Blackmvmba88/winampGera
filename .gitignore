@@ -60,3 +60,7 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+# Local runtime state
+winampgera_metrics.json
+winampgera_state.json
