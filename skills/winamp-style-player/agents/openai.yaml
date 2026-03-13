@@ -1,0 +1,4 @@
+interface:
+  display_name: "Winamp Style Player"
+  short_description: "Build retro desktop audio players with Winamp energy"
+  default_prompt: "Use $winamp-style-player to build or extend a retro Winamp-inspired desktop audio player."

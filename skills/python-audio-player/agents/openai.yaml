@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Audio Player"
+  short_description: "Build simple desktop audio players in Python"
+  default_prompt: "Use $python-audio-player to build or extend a desktop audio player in Python."
